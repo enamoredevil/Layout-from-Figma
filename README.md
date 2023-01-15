@@ -4,5 +4,5 @@ Here is my first layout. It took me a few hours to complete. Special thanks to [
 You can try it out at [this site](https://enamoredevil.github.io/Layout-from-Figma/)
 
 ---
-##preview:
+## preview:
 ![preview](images/preview.png)
